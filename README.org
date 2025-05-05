@@ -8,7 +8,8 @@ Leitura Complementar:
 
 - [[https://pt.wikipedia.org/wiki/Cultura_digital][Cultura Digital]]
 
-- [[tecban.com.br/blog/o-que-e-cultura-digital][O que é cultura digital e quais são os seus impactos]]
-
+- [[http://www.tecban.com.br/blog/o-que-e-cultura-digital][O que é cultura digital e quais são os seus impactos]]
 
 - [[https://edifyeducation.com.br/blog/cultura-digital/][O que é Cultura Digital e qual a sua relação com a educação?]]
+
+  https://www.tecban.com.br/blog/o-que-e-cultura-digital
