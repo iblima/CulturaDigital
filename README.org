@@ -2,6 +2,10 @@
 
 A cultura digital engloba valores, conhecimentos, práticas e comportamentos relacionados às tecnologias digitais. Ela abrange desde o uso de dispositivos eletrônicos até as habilidades necessárias para lidar com informações e participar ativamente na sociedade digital. Em essência, a cultura digital é a forma como nos relacionamos com o mundo por meio da tecnologia.
 
+
+
 Leitura Complementar:
 
 [[tecban.com.br/blog/o-que-e-cultura-digital][O que é cultura digital e quais são os seus impactos]]
+[[https://pt.wikipedia.org/wiki/Cultura_digital][Cultura Digital]]
+[[https://edifyeducation.com.br/blog/cultura-digital/][O que é Cultura Digital e qual a sua relação com a educação?]]
